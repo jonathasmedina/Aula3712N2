@@ -37,3 +37,7 @@ public class MainActivity extends AppCompatActivity {
             setContentView(R.layout.activity_maintabletdeitada);
     }
 }
+
+
+// Biblioteca SDP:
+//https://github.com/intuit/sdp
